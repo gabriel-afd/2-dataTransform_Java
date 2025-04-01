@@ -176,10 +176,7 @@ O projeto depende do JAR do **Tabula** para a extração de dados. Certifique-se
 
 ## Autor
 **Gabriel Medeiros**
-
-## Contato
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-[Email](mailto:seu.email@exemplo.com)
+[Email](gmedeiros144@gmail.com)
 
 
 
